@@ -1,0 +1,62 @@
+{
+  "ExampleBranch - Branching": {
+    "type": "branching",
+    "fn": "branch"
+  },
+  "ExampleRouter - ContentBasedFlowRouter": {
+    "type": "contentbasedflowrouter",
+    "fn": "contentBasedFlowRouter"
+  },
+  "ExampleFilter - Filter": {
+    "type": "filter",
+    "fn": "filter"
+  },
+  "ExampleHandleRequest - HandleRequest": {
+    "type": "handlerequest",
+    "fn": "handleRequest"
+  },
+  "ExamplePostResponse - PostResponseMap": {
+    "type": "postresponsemap",
+    "fn": "postResponseMap"
+  },
+  "ExamplePreMap - PreMap": {
+    "type": "premap",
+    "fn": "preMap"
+  },
+  "MAR08FoodLion - PreMaps": {
+    "type": "premap",
+    "fn": "transform"
+  },
+  "MAR08Ingles - PreMaps": {
+    "type": "premap",
+    "fn": "preMap"
+  },
+  "Westin - PreMaps": {
+    "type": "premap",
+    "fn": "preMap"
+  },
+  "ExamplePreSave - PreSavePage": {
+    "type": "presavepage",
+    "fn": "preSavePage"
+  },
+  "ALL13ExcelToAPI - Transforms": {
+    "type": "transform",
+    "fn": "transform"
+  },
+  "CUR01-943 - Transforms": {
+    "type": "transform",
+    "fn": "transform"
+  },
+  "EkaTransform - Transforms": {
+    "type": "transform",
+    "fn": "jsonAPIRequestParseResponse"
+  },
+  "ExampleTransform - Transform": {
+    "type": "transform",
+    "fn": "transform"
+  },
+  "GEN12 Transform - Transforms": {
+    "type": "transform",
+    "fn": "transform"
+  }
+}

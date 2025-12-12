@@ -1,0 +1,13 @@
+{
+  "name": "celigo-script-runner",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "sync": "node tools/sync.js",
+    "sync:hard": "node tools/sync.js --lint-safe-hard",
+    "sync:watch": "node tools/sync-watch.js --lint-safe-hard",
+    "manifest": "node tools/sync.js --manifest-only",
+    "run": "node index.js",
+    "postinstall": "node tools/sync.js --lint-safe-hard"
+  }
+}
