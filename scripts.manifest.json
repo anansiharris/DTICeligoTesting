@@ -51,6 +51,10 @@
     "type": "transform",
     "fn": "transform"
   },
+  "Echo 204 - Transform": {
+    "type": "transform",
+    "fn": "transform"
+  },
   "EkaTransform - Transforms": {
     "type": "transform",
     "fn": "jsonAPIRequestParseResponse"

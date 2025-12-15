@@ -1,0 +1,505 @@
+[
+  {
+    "Reference": "4157142",
+    "loadRef": "1510186",
+    "setPurpose": "04",
+    "Quantity": "34",
+    "Weight": "42741",
+    "tLength": 53,
+    "notes": "none",
+    "special": "none",
+    "customer_load_numbers": [
+      {
+        "type": "bill_of_lading_no",
+        "number": "1510186"
+      },
+      {
+        "type": "shipment_id_no",
+        "number": "4157142"
+      },
+      {
+        "type": "other",
+        "number": "KBXLEGACY",
+        "otherType": "Carrier-assigned Shipper Number"
+      }
+    ],
+    "loadLocations": [
+      {
+        "order": "1",
+        "lookups": true,
+        "type": "pickup",
+        "time_type": "scheduled_pickup_time",
+        "name": "DISTRIBUTION TECHNOLOGY INC",
+        "idCode": "4NJ",
+        "address": "1411 CONTINENTAL BLVD",
+        "zip": "28273",
+        "date": "20251209",
+        "starttime": "15:00",
+        "endtime": "16:00",
+        "location_id": "e13cb1d1-daa7-4d74-b348-2121d89b8c87",
+        "city_id": "12e15842-0a69-453c-857c-3220b3e3cf38",
+        "loadnos": [
+          {
+            "type": "order_no",
+            "number": "1510186"
+          },
+          {
+            "type": "other",
+            "number": "1510186",
+            "otherType": "Customer Order Number"
+          },
+          {
+            "type": "other",
+            "number": "0010061826",
+            "otherType": "Customer Reference Number"
+          },
+          {
+            "type": "other",
+            "number": "6021146",
+            "otherType": "Internal Order Number"
+          },
+          {
+            "type": "shipment_id_no",
+            "number": "4157142"
+          },
+          {
+            "type": "other",
+            "number": "1510186",
+            "otherType": "Purchase Order Number"
+          },
+          {
+            "type": "purchase_order_no",
+            "number": "4503624034"
+          }
+        ],
+        "specialInstructions": [
+          {},
+          {
+            "note": "CARRIER: PLEASE SCHEDULE APPT"
+          },
+          {},
+          {
+            "note": "SEND EDI APPT (AA/AB) TO KBXL"
+          },
+          {
+            "note": "CARRIER: PLEASE SCHEDULE APPT"
+          },
+          {
+            "note": "SEND EDI APPT (AA/AB) TO KBXL"
+          },
+          {
+            "note": "Planned Load By 12/09/2025 15:00"
+          }
+        ]
+      },
+      {
+        "order": "2",
+        "lookups": false,
+        "type": "delivery",
+        "time_type": "scheduled_delivery_time",
+        "name": "PACTIV GREENSBORO",
+        "idCode": "1000001163003",
+        "address": "820 RADAR RD",
+        "zip": "27410",
+        "date": "20251210",
+        "starttime": "15:00",
+        "endtime": "16:00",
+        "loadnos": [
+          {
+            "type": "order_no",
+            "number": "1510186"
+          },
+          {
+            "type": "other",
+            "number": "1510186",
+            "otherType": "Customer Order Number"
+          },
+          {
+            "type": "other",
+            "number": "6021146",
+            "otherType": "Internal Order Number"
+          },
+          {
+            "type": "shipment_id_no",
+            "number": "4157142"
+          },
+          {
+            "type": "other",
+            "number": "1510186",
+            "otherType": "Purchase Order Number"
+          },
+          {
+            "type": "purchase_order_no",
+            "number": "4503624034"
+          }
+        ],
+        "specialInstructions": [
+          {
+            "note": "NO APPT NECESSARY"
+          },
+          {
+            "note": "FIRST COME, FIRST SERVE"
+          },
+          {
+            "note": "NO APPT NECESSARY"
+          },
+          {
+            "note": "FIRST COME, FIRST SERVE"
+          },
+          {
+            "note": "FCFS 0700-1500 M-F FOR RECEIVING"
+          }
+        ]
+      }
+    ],
+    "loadIID": 2932,
+    "status": "in_review",
+    "loadID": "7070c365-ae6e-4599-a20b-169ea91fa756",
+    "currentLoadLocations": [
+      {
+        "iid": 351693,
+        "load_id": "7070c365-ae6e-4599-a20b-169ea91fa756",
+        "type": "pickup",
+        "business_name": "PDC WAREHOUSE 2",
+        "address": "1411 Continental Boulevard",
+        "zip": "28273",
+        "time_start": "15:00:00",
+        "time_end": "16:00:00",
+        "time_type": "scheduled_pickup_time",
+        "carrier_cannot_change_time": false,
+        "date": "2025-12-09",
+        "not_before": false,
+        "not_before_detail": null,
+        "not_after": false,
+        "not_after_detail": null,
+        "dock_hours_start": null,
+        "dock_hours_end": null,
+        "special_instructions": ", CARRIER: PLEASE SCHEDULE APPT, , SEND EDI APPT (AA/AB) TO KBXL, CARRIER: PLEASE SCHEDULE APPT, SEND EDI APPT (AA/AB) TO KBXL, Planned Load By 12/09/2025 15:00",
+        "order": 1,
+        "created_at": "2025-12-15T19:26:00.498Z",
+        "updated_at": "2025-12-15T19:33:38.223Z",
+        "city_id": "12e15842-0a69-453c-857c-3220b3e3cf38",
+        "updated_by_id": "ebec6922-46c2-4f26-ab74-f259ecc64222",
+        "location_id": "c8f5f5f9-6a56-418c-9d0f-0525718e76b0",
+        "id_number_type": null,
+        "id_number_type_other": null,
+        "id_number": null,
+        "confirmation_number": null,
+        "appointment_date": "2025-12-09",
+        "lat": "35.124404",
+        "lng": "-80.929708",
+        "completed": false,
+        "mobility_service_status": null,
+        "main_phone": null,
+        "allotted_stop_time_minutes": 120,
+        "early_arrival_allowance_minutes": 0,
+        "late_arrival_allowance_minutes": 0,
+        "sealed_load_numbers_str": "",
+        "requested": false,
+        "status": "normal_appointment",
+        "id_numbers": [
+          {
+            "type": "order_no",
+            "number": "1510186"
+          },
+          {
+            "type": "other",
+            "other": "Customer Order Number",
+            "number": "1510186"
+          },
+          {
+            "type": "other",
+            "other": "Customer Reference Number",
+            "number": "0010061826"
+          },
+          {
+            "type": "other",
+            "other": "Internal Order Number",
+            "number": "6021146"
+          },
+          {
+            "type": "shipment_id_no",
+            "number": "4157142"
+          },
+          {
+            "type": "other",
+            "other": "Purchase Order Number",
+            "number": "1510186"
+          },
+          {
+            "type": "purchase_order_no",
+            "number": "4503624034"
+          }
+        ],
+        "cargo_items": null,
+        "cargo_items_updated_by_id": null,
+        "cargo_items_updated_at": null,
+        "trailer_id": null,
+        "id": "8c5dc4d8-06bc-45e4-9e34-8c6eeeffafff",
+        "city": {
+          "iid": 10952,
+          "name": "Charlotte",
+          "lat": "35.126700",
+          "lng": "-80.946700",
+          "state_id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be",
+          "zip": "28273",
+          "county": "Mecklenburg",
+          "point": "0101000020E6100000E3C798BB963C54C09C33A2B437904140",
+          "id": "12e15842-0a69-453c-857c-3220b3e3cf38",
+          "state": {
+            "iid": 28,
+            "name": "North Carolina",
+            "code": "NC",
+            "country_code": null,
+            "id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be"
+          }
+        },
+        "location": {
+          "iid": 11847,
+          "label": "PDC WAREHOUSE 2",
+          "address": "1411 Continental Boulevard",
+          "lat": "35.124404",
+          "lng": "-80.929708",
+          "city_id": "12e15842-0a69-453c-857c-3220b3e3cf38",
+          "created_by_id": "ebec6922-46c2-4f26-ab74-f259ecc64222",
+          "updated_by_id": "ebec6922-46c2-4f26-ab74-f259ecc64222",
+          "created_at": "2024-06-24T17:56:05.058Z",
+          "updated_at": "2024-06-24T17:56:05.058Z",
+          "primary_contact_name": null,
+          "primary_contact_phone_number": null,
+          "dock_time_start": null,
+          "dock_time_end": null,
+          "broker_id": "eae0e41e-3eba-48c9-ad56-52917425602e",
+          "operational_contacts": {
+            "contacts": []
+          },
+          "notes": {
+            "location_notes": []
+          },
+          "reference_id": "2",
+          "main_phone": null,
+          "time_type_default": "none",
+          "type": "load_unload_facility",
+          "on_site_break_allowed": false,
+          "early_arrival_allowance_minutes": 0,
+          "late_arrival_allowance_minutes": 0,
+          "secured": false,
+          "driver_swap_relay_approved": false,
+          "trailer_swap_relay_approved": false,
+          "samsara_address_id": null,
+          "keeptruckin_dispatch_location_id": null,
+          "location_match_str": "pdcwarehouse21411ccharlotte",
+          "vertices": null,
+          "contacts": [],
+          "location_notes": [],
+          "id": "c8f5f5f9-6a56-418c-9d0f-0525718e76b0",
+          "city": {
+            "iid": 10952,
+            "name": "Charlotte",
+            "lat": "35.126700",
+            "lng": "-80.946700",
+            "state_id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be",
+            "zip": "28273",
+            "county": "Mecklenburg",
+            "point": "0101000020E6100000E3C798BB963C54C09C33A2B437904140",
+            "id": "12e15842-0a69-453c-857c-3220b3e3cf38",
+            "state": {
+              "iid": 28,
+              "name": "North Carolina",
+              "code": "NC",
+              "country_code": null,
+              "id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be"
+            }
+          }
+        }
+      },
+      {
+        "iid": 351694,
+        "load_id": "7070c365-ae6e-4599-a20b-169ea91fa756",
+        "type": "delivery",
+        "business_name": "PACTIV GREENSBORO",
+        "address": "820 Radar Road",
+        "zip": "27410",
+        "time_start": "15:00:00",
+        "time_end": "16:00:00",
+        "time_type": "scheduled_delivery_time",
+        "carrier_cannot_change_time": false,
+        "date": "2025-12-10",
+        "not_before": false,
+        "not_before_detail": null,
+        "not_after": false,
+        "not_after_detail": null,
+        "dock_hours_start": null,
+        "dock_hours_end": null,
+        "special_instructions": "NO APPT NECESSARY, FIRST COME, FIRST SERVE, NO APPT NECESSARY, FIRST COME, FIRST SERVE, FCFS 0700-1500 M-F FOR RECEIVING",
+        "order": 2,
+        "created_at": "2025-12-15T19:26:01.083Z",
+        "updated_at": "2025-12-15T19:33:38.351Z",
+        "city_id": "ac561ac9-1db8-4620-a384-f1559f28f4d5",
+        "updated_by_id": "ebec6922-46c2-4f26-ab74-f259ecc64222",
+        "location_id": "daf3534b-7b9d-455b-be88-805503568e13",
+        "id_number_type": null,
+        "id_number_type_other": null,
+        "id_number": null,
+        "confirmation_number": null,
+        "appointment_date": "2025-12-10",
+        "lat": null,
+        "lng": null,
+        "completed": false,
+        "mobility_service_status": null,
+        "main_phone": null,
+        "allotted_stop_time_minutes": 120,
+        "early_arrival_allowance_minutes": 0,
+        "late_arrival_allowance_minutes": 0,
+        "sealed_load_numbers_str": "",
+        "requested": false,
+        "status": "normal_appointment",
+        "id_numbers": [
+          {
+            "type": "order_no",
+            "number": "1510186"
+          },
+          {
+            "type": "other",
+            "other": "Customer Order Number",
+            "number": "1510186"
+          },
+          {
+            "type": "other",
+            "other": "Internal Order Number",
+            "number": "6021146"
+          },
+          {
+            "type": "shipment_id_no",
+            "number": "4157142"
+          },
+          {
+            "type": "other",
+            "other": "Purchase Order Number",
+            "number": "1510186"
+          },
+          {
+            "type": "purchase_order_no",
+            "number": "4503624034"
+          }
+        ],
+        "cargo_items": null,
+        "cargo_items_updated_by_id": null,
+        "cargo_items_updated_at": null,
+        "trailer_id": null,
+        "id": "bc8b978b-0e2e-4f1b-9576-83039539c9d1",
+        "city": {
+          "iid": 10508,
+          "name": "Greensboro",
+          "lat": "36.119600",
+          "lng": "-79.893000",
+          "state_id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be",
+          "zip": "27410",
+          "county": "Guilford",
+          "point": "0101000020E6100000FED478E926F953C0014D840D4F0F4240",
+          "id": "ac561ac9-1db8-4620-a384-f1559f28f4d5",
+          "state": {
+            "iid": 28,
+            "name": "North Carolina",
+            "code": "NC",
+            "country_code": null,
+            "id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be"
+          }
+        },
+        "location": {
+          "iid": 13017,
+          "label": "PACTIV GREENSBORO",
+          "address": "820 Radar Road",
+          "lat": "36.096673",
+          "lng": "-79.924559",
+          "city_id": "ac561ac9-1db8-4620-a384-f1559f28f4d5",
+          "created_by_id": "ebec6922-46c2-4f26-ab74-f259ecc64222",
+          "updated_by_id": "ebec6922-46c2-4f26-ab74-f259ecc64222",
+          "created_at": "2025-07-14T13:06:55.455Z",
+          "updated_at": "2025-07-14T13:06:55.455Z",
+          "primary_contact_name": null,
+          "primary_contact_phone_number": null,
+          "dock_time_start": null,
+          "dock_time_end": null,
+          "broker_id": "eae0e41e-3eba-48c9-ad56-52917425602e",
+          "operational_contacts": {
+            "contacts": []
+          },
+          "notes": {
+            "location_notes": []
+          },
+          "reference_id": "1000001163003",
+          "main_phone": null,
+          "time_type_default": "none",
+          "type": "load_unload_facility",
+          "on_site_break_allowed": false,
+          "early_arrival_allowance_minutes": 0,
+          "late_arrival_allowance_minutes": 0,
+          "secured": false,
+          "driver_swap_relay_approved": false,
+          "trailer_swap_relay_approved": false,
+          "samsara_address_id": null,
+          "keeptruckin_dispatch_location_id": null,
+          "location_match_str": "pactivgreensboro820ragreensboro",
+          "vertices": null,
+          "contacts": [],
+          "location_notes": [],
+          "id": "daf3534b-7b9d-455b-be88-805503568e13",
+          "city": {
+            "iid": 10508,
+            "name": "Greensboro",
+            "lat": "36.119600",
+            "lng": "-79.893000",
+            "state_id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be",
+            "zip": "27410",
+            "county": "Guilford",
+            "point": "0101000020E6100000FED478E926F953C0014D840D4F0F4240",
+            "id": "ac561ac9-1db8-4620-a384-f1559f28f4d5",
+            "state": {
+              "iid": 28,
+              "name": "North Carolina",
+              "code": "NC",
+              "country_code": null,
+              "id": "58f55ba6-a3d9-4885-9587-f3613bf8a2be"
+            }
+          }
+        }
+      }
+    ],
+    "shipFromLocationID": "8c5dc4d8-06bc-45e4-9e34-8c6eeeffafff",
+    "shipToLocationID": "bc8b978b-0e2e-4f1b-9576-83039539c9d1",
+    "shipperID": "1bd5bd89-bf5b-4ff4-ae58-34dfda2ce045",
+    "businessID": "06cc840a-7959-4891-8569-28edd187c0d5",
+    "statusCode": "in_review",
+    "emailID": null,
+    "response": [
+      {
+        "statusCode": "in_review",
+        "transactionSetHeader": [
+          {
+            "transactionSetIdentifierCode": "990"
+          }
+        ],
+        "beginningSegmentForBookingOrPickupDelivery": [
+          {
+            "standardCarrierAlphaCode": "PDCT",
+            "shipmentIdentificationNumber": "1510186",
+            "date": "20251215",
+            "reservationActionCode": "A"
+          }
+        ],
+        "businessInstructionsAndReferenceNumber": [
+          {
+            "referenceIdentification": "7070c365-ae6e-4599-a20b-169ea91fa756",
+            "referenceIdentificationQualifier": "CN"
+          }
+        ],
+        "transactionSetTrailer": [
+          {
+            "numberOfIncludedSegments": "3"
+          }
+        ]
+      }
+    ]
+  }
+]

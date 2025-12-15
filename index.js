@@ -136,7 +136,10 @@ const TYPE_MAP = {
   postresponsemap: {
     folder: ["node", "PostResponseMap"],
     defaultFn: "postResponseMap",
-    buildOptions: (profile, input) => mergeShallow(makeCommon(profile, input), {
+    buildOptions: (profile, input) => mergeShallow(makeCommon(profile, input), {postResponseMapData: input.postResponseMapData
+  ? input.postResponseMapData
+  : Array.isArray(input) ? input : [input],
+
       responseData: input, data: input, errors: [], abort: false, newErrorsAndRetryData: []
     })
   },

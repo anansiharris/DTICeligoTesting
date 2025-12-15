@@ -1,4 +1,5 @@
 function postResponseMap(options) {
+   
   const record = options.postResponseMapData[0];
 
   const reservationActionCode = record.status === "in_review" ? "A" : "D";
@@ -20,8 +21,19 @@ function postResponseMap(options) {
     transactionSetTrailer: []
   }];
 
+  record.loadLocations.forEach(loc => {
+    if(loc.type==="pickup"){
+        for(let l of record.currentLoadLocations){
+            if(l.type==="pickup"){
+                loc.location_id=l.location_id
+                loc.city_id=l.city_id
+         
+               } }  }
+        });
+
   const totalSegments = countAllSegments(response[0]);
   response[0].transactionSetTrailer.push({ numberOfIncludedSegments: String(totalSegments) });
+
 
   record.response = response;
   return [record];
