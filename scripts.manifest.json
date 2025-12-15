@@ -19,6 +19,10 @@
     "type": "postresponsemap",
     "fn": "postResponseMap"
   },
+  "Orderful Post Response Map": {
+    "type": "postresponsemap",
+    "fn": "postResponseMap"
+  },
   "ExamplePreMap - PreMap": {
     "type": "premap",
     "fn": "preMap"
