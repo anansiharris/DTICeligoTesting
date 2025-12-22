@@ -1,0 +1,178 @@
+{
+  "record": [
+    {
+      "ArtikelNr": "568.0.8101",
+      "Charge": "50610112930",
+      "Lieferantencharge": null,
+      "Anz SOLL": "93",
+      "Anz IST": "93",
+      "EinzelNettoKG": "5.88",
+      "SummeNettoKG": "546.84"
+    },
+    {
+      "ArtikelNr": "568.0.8101",
+      "Charge": "50717120390",
+      "Lieferantencharge": null,
+      "Anz SOLL": "7",
+      "Anz IST": "7",
+      "EinzelNettoKG": "5.88",
+      "SummeNettoKG": "41.16"
+    },
+    {
+      "ArtikelNr": "702.5.0067",
+      "Charge": "50726109084",
+      "Lieferantencharge": null,
+      "Anz SOLL": "2",
+      "Anz IST": "1",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "190"
+    },
+    {
+      "ArtikelNr": "702.5.0067",
+      "Charge": "50726109084",
+      "Lieferantencharge": null,
+      "Anz SOLL": "8",
+      "Anz IST": "7",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "1330"
+    },
+    {
+      "ArtikelNr": "702.5.0067",
+      "Charge": "50806119089",
+      "Lieferantencharge": null,
+      "Anz SOLL": "4",
+      "Anz IST": "2",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "380"
+    },
+    {
+      "ArtikelNr": "702.5.0067",
+      "Charge": "50806119089",
+      "Lieferantencharge": null,
+      "Anz SOLL": "12",
+      "Anz IST": "10",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "1900"
+    },
+    {
+      "ArtikelNr": "704.5.0047",
+      "Charge": "50802412023",
+      "Lieferantencharge": null,
+      "Anz SOLL": "72",
+      "Anz IST": "72",
+      "EinzelNettoKG": "20",
+      "SummeNettoKG": "1440"
+    },
+    {
+      "ArtikelNr": "704.5.0047",
+      "Charge": "50808532038",
+      "Lieferantencharge": null,
+      "Anz SOLL": "24",
+      "Anz IST": "24",
+      "EinzelNettoKG": "20",
+      "SummeNettoKG": "480"
+    },
+    {
+      "ArtikelNr": "706.0.0967",
+      "Charge": "50729109105",
+      "Lieferantencharge": null,
+      "Anz SOLL": "2",
+      "Anz IST": "2",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "380"
+    },
+    {
+      "ArtikelNr": "706.0.0967",
+      "Charge": "50803070066",
+      "Lieferantencharge": null,
+      "Anz SOLL": "6",
+      "Anz IST": "3",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "570"
+    },
+    {
+      "ArtikelNr": "706.0.0967",
+      "Charge": "50803070066",
+      "Lieferantencharge": null,
+      "Anz SOLL": "21",
+      "Anz IST": "18",
+      "EinzelNettoKG": "190",
+      "SummeNettoKG": "3420"
+    },
+    {
+      "ArtikelNr": "707.9.0082",
+      "Charge": "50506020049",
+      "Lieferantencharge": null,
+      "Anz SOLL": "119",
+      "Anz IST": "119",
+      "EinzelNettoKG": "1.56",
+      "SummeNettoKG": "185.64"
+    },
+    {
+      "ArtikelNr": "707.9.0082",
+      "Charge": "50506020050",
+      "Lieferantencharge": null,
+      "Anz SOLL": "118",
+      "Anz IST": "118",
+      "EinzelNettoKG": "1.56",
+      "SummeNettoKG": "184.08"
+    },
+    {
+      "ArtikelNr": "707.9.0082",
+      "Charge": "50508022055",
+      "Lieferantencharge": null,
+      "Anz SOLL": "24",
+      "Anz IST": "24",
+      "EinzelNettoKG": "1.56",
+      "SummeNettoKG": "37.44"
+    },
+    {
+      "ArtikelNr": "773.3.0050",
+      "Charge": "50801029034",
+      "Lieferantencharge": null,
+      "Anz SOLL": "70",
+      "Anz IST": "70",
+      "EinzelNettoKG": "20",
+      "SummeNettoKG": "1400"
+    },
+    {
+      "ArtikelNr": "779.6.2009",
+      "Charge": "50509081054",
+      "Lieferantencharge": null,
+      "Anz SOLL": "33",
+      "Anz IST": "33",
+      "EinzelNettoKG": "15.53",
+      "SummeNettoKG": "512.33"
+    },
+    {
+      "ArtikelNr": "779.6.2009",
+      "Charge": "50509081055",
+      "Lieferantencharge": null,
+      "Anz SOLL": "33",
+      "Anz IST": "33",
+      "EinzelNettoKG": "15.53",
+      "SummeNettoKG": "512.33"
+    }
+  ],
+  "pageIndex": 0,
+  "settings": {
+    "integration": {},
+    "flowGrouping": {},
+    "flow": {},
+    "export": {},
+    "connection": {},
+    "iClient": {}
+  },
+  "job": {
+    "_id": "6949aec76ccd2f12ea53d0b0",
+    "type": "export",
+    "startedAt": "2025-12-22T20:49:11.766Z",
+    "parentJob": {
+      "_id": "6949aec76ccd2f12ea53d0b1",
+      "type": "flow",
+      "startedAt": "2025-12-22T20:49:06.766Z",
+      "flowExecutionGroupId": "6949aec76ccd2f12ea53d0b2"
+    }
+  },
+  "testMode": true
+}

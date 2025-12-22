@@ -63,6 +63,10 @@
     "type": "transform",
     "fn": "transform"
   },
+  "Excel File Conversion - Transform": {
+    "type": "transform",
+    "fn": "transform"
+  },
   "GEN12 Transform - Transforms": {
     "type": "transform",
     "fn": "transform"
