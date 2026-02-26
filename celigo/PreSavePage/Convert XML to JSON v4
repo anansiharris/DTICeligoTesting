@@ -1,0 +1,744 @@
+{
+  "data": [
+    {
+      "pXMLDoc": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><Transaction xmlns=\"urn:microsoft-dynamics-nav/xmlports/x50024\"><ShipmentExport Type=\"Shipment Export\"><Header><DepositorCode>ADM01</DepositorCode><OrderRefNumber>4785362</OrderRefNumber><ShipmentID>S00525</ShipmentID><OrderDate>05/19/2025</OrderDate><ShipDate>06/04/2025</ShipDate><ExpDeliveryDate>06/05/2025</ExpDeliveryDate><ProNumber /><FreightBillType>1</FreightBillType><FreightBillTo>PDCPOB2824</FreightBillTo><FreightCost>0.00</FreightCost><OrderStatus>Posted</OrderStatus><TotalQtyOrdered>22</TotalQtyOrdered><GrsWeight>33000</GrsWeight><NetWeight>33000.00</NetWeight><HdrUser1>32770</HdrUser1><HdrUser2>4244723</HdrUser2><HdrUser3>1637899</HdrUser3><HdrUser4 /><HdrUser5>50</HdrUser5><ProNumber /><Container /><ShipTo><ShipToCode>MOU1082836</ShipToCode><ShipToName>MOUNTAIRE FARMS INC</ShipToName><ShipToAddr1>10800 PELL DRIVE</ShipToAddr1><ShipToAddr2>SCOTLAND COUNTY FEED MILL</ShipToAddr2><ShipToCity>Maxton</ShipToCity><ShipToState>NC</ShipToState><ShipToZip>28364</ShipToZip><ShipToCountry>US</ShipToCountry></ShipTo><ShipFrom><ShipFromCode /><ShipFromName /><ShipFromAddr1 /><ShipFromAddr2 /><ShipFromCity /><ShipFromState /><ShipFromZip /><ShipFromCountry /></ShipFrom><Carrier><CarrierCode>PDCT</CarrierCode><CarrierName>PDC TRUCKING</CarrierName></Carrier><ShipLines><ShipLine><LineID>10000</LineID><ItemNumber>550310TK</ItemNumber><ItemDesc1>CITRISTIM 1500LB REGULAR SUPERSACK</ItemDesc1><QtyOrdered>22</QtyOrdered><QtyShipped>22</QtyShipped><UOM>SACK</UOM><Lot /><NMFCCode /><FreightClass>50</FreightClass><LGrsWeight>33000</LGrsWeight><LNetWeight>33000</LNetWeight></ShipLine></ShipLines><Packages /></Header><Header><DepositorCode>ADM01</DepositorCode><OrderRefNumber>4787344</OrderRefNumber><ShipmentID>S00546</ShipmentID><OrderDate>05/27/2025</OrderDate><ShipDate>06/09/2025</ShipDate><ExpDeliveryDate>06/10/2025</ExpDeliveryDate><ProNumber /><FreightBillType>1</FreightBillType><FreightBillTo>PDCPOB2824</FreightBillTo><FreightCost>0.00</FreightCost><OrderStatus>Posted</OrderStatus><TotalQtyOrdered>22</TotalQtyOrdered><GrsWeight>33000</GrsWeight><NetWeight>33000.00</NetWeight><HdrUser1>32831</HdrUser1><HdrUser2>4241711</HdrUser2><HdrUser3>1937420</HdrUser3><HdrUser4 /><HdrUser5>50</HdrUser5><ProNumber /><Container /><ShipTo><ShipToCode>MOU2032722</ShipToCode><ShipToName>MOUNTAIRE FARMS, INC</ShipToName><ShipToAddr1>203 MORRIS FARMS ROAD</ShipToAddr1><ShipToAddr2 /><ShipToCity>Candor</ShipToCity><ShipToState>NC</ShipToState><ShipToZip>27229</ShipToZip><ShipToCountry>US</ShipToCountry></ShipTo><ShipFrom><ShipFromCode /><ShipFromName /><ShipFromAddr1 /><ShipFromAddr2 /><ShipFromCity /><ShipFromState /><ShipFromZip /><ShipFromCountry /></ShipFrom><Carrier><CarrierCode>PDCT</CarrierCode><CarrierName>PDC TRUCKING</CarrierName></Carrier><ShipLines><ShipLine><LineID>10000</LineID><ItemNumber>550310TK</ItemNumber><ItemDesc1>CITRISTIM 1500LB REGULAR SUPERSACK</ItemDesc1><QtyOrdered>22</QtyOrdered><QtyShipped>22</QtyShipped><UOM>SACK</UOM><Lot /><NMFCCode /><FreightClass>50</FreightClass><LGrsWeight>33000</LGrsWeight><LNetWeight>33000</LNetWeight></ShipLine></ShipLines><Packages /></Header><Header><DepositorCode>ADM01</DepositorCode><OrderRefNumber>4790638</OrderRefNumber><ShipmentID>S00626</ShipmentID><OrderDate>06/10/2025</OrderDate><ShipDate>06/25/2025</ShipDate><ExpDeliveryDate>06/26/2025</ExpDeliveryDate><ProNumber>4241791/2438223</ProNumber><FreightBillType>1</FreightBillType><FreightBillTo>PDCPOB2824</FreightBillTo><FreightCost>0.00</FreightCost><OrderStatus>Posted</OrderStatus><TotalQtyOrdered>200</TotalQtyOrdered><GrsWeight>11002.4</GrsWeight><NetWeight>11000.00</NetWeight><HdrUser1>32996</HdrUser1><HdrUser2>4241791</HdrUser2><HdrUser3>2438223</HdrUser3><HdrUser4 /><HdrUser5>50</HdrUser5><ProNumber>4241791/2438223</ProNumber><Container /><ShipTo><ShipToCode>MOU2202867</ShipToCode><ShipToName>MOUNTAIRE FARMS INC</ShipToName><ShipToAddr1>2206 W FRONT ST</ShipToAddr1><ShipToAddr2 /><ShipToCity>Statesville</ShipToCity><ShipToState>NC</ShipToState><ShipToZip>28677</ShipToZip><ShipToCountry>US</ShipToCountry></ShipTo><ShipFrom><ShipFromCode>008</ShipFromCode><ShipFromName>Distribution Technology</ShipFromName><ShipFromAddr1>14620 CAROWINDS BLVD</ShipFromAddr1><ShipFromAddr2 /><ShipFromCity>Charlotte</ShipFromCity><ShipFromState>NC</ShipFromState><ShipFromZip>28273</ShipFromZip><ShipFromCountry>US</ShipFromCountry></ShipFrom><Carrier><CarrierCode>PDCT</CarrierCode><CarrierName>PDC TRUCKING</CarrierName></Carrier><ShipLines><ShipLine><LineID>10000</LineID><ItemNumber>550310AJ</ItemNumber><ItemDesc1>CITRISTIM 25KG BAG</ItemDesc1><QtyOrdered>200</QtyOrdered><QtyShipped>200</QtyShipped><UOM>BAG</UOM><Lot /><NMFCCode /><FreightClass>50</FreightClass><LGrsWeight>11002.4</LGrsWeight><LNetWeight>11000</LNetWeight></ShipLine></ShipLines><Packages /></Header></ShipmentExport></Transaction>"
+    }
+  ],
+  "errors": [],
+  "_exportId": "69a05f1aa6375ebd32de29e4",
+  "_connectionId": "677d3e2dff9f940f72f52aec",
+  "_flowId": "6997707f7237f1bf5caff1f1",
+  "_integrationId": "66b9f84ce1f2a67ecd125907",
+  "lastExportDateTime": "2026-02-19T19:46:03.589Z",
+  "currentExportDateTime": "2026-02-26T15:38:20.498Z",
+  "pageIndex": 0,
+  "settings": {
+    "integration": {},
+    "flowGrouping": {},
+    "flow": {},
+    "export": {},
+    "connection": {},
+    "iClient": {}
+  },
+  "job": {
+    "_id": "69a068ec13e5283cbd3acc76",
+    "type": "export",
+    "startedAt": "2026-02-26T15:38:20.358Z",
+    "parentJob": {
+      "_id": "69a068ec13e5283cbd3acc77",
+      "type": "flow",
+      "startedAt": "2026-02-26T15:38:15.358Z",
+      "flowExecutionGroupId": "69a068ec13e5283cbd3acc78"
+    }
+  },
+  "testMode": true
+}
+
+function tester(options){
+  var xml = options.data[0].pXMLDoc
+  //console.log(xml)
+  var trx =parseShipmentConfirmationAdviceXml(xml)
+  console.log(JSON.stringify(trx))
+}
+
+function preSavePage(options) {
+  var inData = options.data || [];
+  var outData = [];
+  var mode = options.testMode === true;
+
+  for (var i = 0; i < inData.length; i++) {
+    var src = inData[i] || {};
+    var xml = src.pXMLDoc;
+
+    if (!xml || typeof xml !== "string" || !xml.trim()) {
+      // Pass-through if no XML
+      outData.push(src);
+      continue;
+    }
+
+    try {
+      // Parse shipments from XML (fast-path parser)
+      var shipments = parseShipmentConfirmationAdviceXml(xml);
+
+      for (var j = 0; j < shipments.length; j++) {
+        var s = shipments[j] || {};
+
+        // Trace key: DepositorCode-OrderRefNumber-ShipmentID
+        s._traceKey = [
+          safeStr(s.DepositorCode),
+          safeStr(s.OrderRefNumber),
+          safeStr(s.ShipmentID),
+        ].join("-");
+        
+        // Master doc handling (S12929-style)
+        if (s.__isMasterDocument === true) {
+          s.isMasterShipment = true;
+          s.__skipReason = "master_document_total_qty_0";
+          s.load = {};               // keep output lean + traceable
+          outData.push(s);
+          continue;
+        }
+        
+        s.isMasterShipment = false;
+
+        // Build load object
+        s.load = transform(s, mode);
+
+        // Ensure XML blob is not carried forward
+        if (s.pXMLDoc) delete s.pXMLDoc;
+
+        // Optionally: if transform returns {}, you can skip pushing to reduce noise
+        outData.push(s);
+      }
+    } catch (e) {
+      outData.push({
+        _traceKey: "xml-parse-failed",
+        __xmlParseError: String(e && e.message ? e.message : e),
+      });
+    }
+  }
+
+  return {
+    data: outData,
+    errors: options.errors || [],
+    abort: outData.length === 0, // abort if no output
+    newErrorsAndRetryData: [],
+  };
+}
+
+/**
+ * transform(record, testMode)
+ * ---------------------------
+ * Builds a "load" object from a parsed shipment record.
+ *
+ * PERFORMANCE NOTES:
+ * - Single pass over ShipLine to compute cargo_qty, cargo_weight, and max freight class.
+ * - Avoid filter/map in hot paths; use classic loops for Celigo runtime stability.
+ *
+ * @param {Object} record Parsed shipment object
+ * @param {boolean} testMode Warehouse ID mode toggle
+ * @returns {Object} load payload or {} if insufficient data (ex: missing delivery location)
+ */
+function transform(record, testMode) {
+  record.mode = testMode;
+
+  var shipToCode = record && record.ShipTo ? record.ShipTo.ShipToCode : "";
+  var shipDateYmd = safeDateToYmd(record.ShipDate);
+  var expDateYmd = safeDateToYmd(record.ExpDeliveryDate);
+
+  var load = {
+    Reference: record.ShipmentID,
+    DepositorCode: record.DepositorCode,
+    OrderStatus: record.OrderStatus,
+    shipmentType: "",
+    cargo_qty: 0,
+    cargo_weight: 0,
+    serviceType: record.ShipmentMethodCode === "LTL" ? "LTL" : "dryvan",
+    frclass: "",
+    loadNos: {
+      bill_of_lading_no: record.ShipmentID,
+      load_no: record.OrderRefNumber,
+      purchase_order_no: record.HdrUser1,
+    },
+    shipto: shipToCode,
+    shipdate: shipDateYmd,
+    deliveryDate: expDateYmd || "",
+    locations: [], // filled below
+  };
+
+  // Add Uber Freight info if needed (kept behavior, simplified)
+  if (record.DepositorCode === "CUR01") {
+    var otherNos = null;
+    if (record.HdrUser2) {
+      otherNos = otherNos || [];
+      otherNos.push({
+        type: "other",
+        number: record.HdrUser2,
+        other: "Transplace Number",
+      });
+    }
+    if (record.HdrUser3) {
+      otherNos = otherNos || [];
+      otherNos.push({
+        type: "other",
+        number: record.HdrUser3,
+        other: "Uber Freight load Number",
+      });
+    }
+    if (otherNos) load.loadNos.other = otherNos;
+  }
+
+  // Compute cargo + frclass in one pass
+  var hasLines = false;
+  var lines = record.ShipLine;
+
+  if (lines) {
+    if (!Array.isArray(lines)) lines = [lines];
+
+    for (var i = 0; i < lines.length; i++) {
+      var item = lines[i];
+      if (!item) continue;
+      hasLines = true;
+
+      var qty = toNumber(item.QtyOrdered);
+      var weight = toNumber(item.LGrsWeight);
+      var fr = safeStr(item.FreightClass);
+
+      // keep your rounding behavior
+      load.cargo_qty += roundTo2(qty);
+      load.cargo_weight += roundTo2(weight);
+
+      // "max" freight class - compare as numbers when possible
+      if (fr) {
+        if (!load.frclass) {
+          load.frclass = fr;
+        } else if (toNumber(fr) > toNumber(load.frclass)) {
+          load.frclass = fr;
+        }
+      }
+    }
+  }
+
+  // Fallback if ShipLine missing/empty
+  if (!hasLines) {
+    load.cargo_qty = toNumber(record.TotalQtyOrdered);
+    load.cargo_weight = toNumber(record.GrsWeight);
+  }
+
+  if (!isFinite(load.cargo_weight) || load.cargo_weight < 0) load.cargo_weight = 0;
+
+  // Shipment type logic (kept)
+  if (load.cargo_weight > 7000) {
+    load.shipmentType = "TRUCKLOAD";
+  } else {
+    load.shipmentType = "LTL";
+    if (!load.frclass) load.frclass = "50";
+  }
+
+  // Locations (avoid removeEmpty recursion; just omit empties directly)
+  var pickup = createLocation(record, "pickup", 1);
+  if (pickup) load.locations.push(pickup);
+
+  var delivery = createLocation(record, "delivery", 2);
+  if (delivery) load.locations.push(delivery);
+
+  // Your existing rule: require a delivery (index 1 after pickup)
+  return load.locations.length > 1 ? load : {};
+}
+
+function safeStr(v) {
+  if (v === null || v === undefined) return "";
+  return String(v).trim();
+}
+
+function toNumber(v) {
+  var n = parseFloat(v);
+  return isFinite(n) ? n : 0;
+}
+
+/**
+ * parseShipmentConfirmationAdviceXml(xml)
+ * ---------------------------------------
+ * FAST parser for Excalibur-style XML.
+ *
+ * Instead of building a full DOM-like tree and walking it repeatedly,
+ * we:
+ *  1) slice out each <ShipmentConfirmationAdvice>...</ShipmentConfirmationAdvice>
+ *  2) extract known tags by string scanning
+ *  3) slice out each <ShipLine>...</ShipLine> and extract line tags similarly
+ *
+ * This is significantly faster and avoids timeouts on large payloads.
+ *
+ * @param {string} xml
+ * @returns {Array<Object>} shipment objects
+ */
+function parseShipmentConfirmationAdviceXml(xml) {
+  xml = String(xml || "");
+  var out = [];
+  
+  var blocks = sliceAllBlocks(xml, "ShipmentConfirmationAdvice")&&sliceAllBlocks(xml, "ShipmentExport");
+  for (var i = 0; i < blocks.length; i++) {
+    var sca = blocks[i];
+
+    var totalQty = getTagText(sca, "TotalQtyOrdered");
+    var isMaster = toNumber(totalQty) === 0;
+
+    var obj = {
+      __isMasterDocument: isMaster, // <--- NEW
+      TotalQtyOrdered: totalQty,
+
+      DepositorCode: getTagText(sca, "DepositorCode"),
+      OrderStatus: getTagText(sca, "OrderStatus"),
+      OrderRefNumber: getTagText(sca, "OrderRefNumber"),
+      PurchOrderNumber: getTagText(sca, "PurchOrderNumber"),
+      ShipmentID: getTagText(sca, "ShipmentID"),
+      OrderDate: getTagText(sca, "OrderDate"),
+      ShipDate: getTagText(sca, "ShipDate"),
+      ShipTime: getTagText(sca, "ShipTime"),
+      ExpDeliveryDate: getTagText(sca, "ExpDeliveryDate"),
+      CancelDate: getTagText(sca, "CancelDate"),
+      HdrUser1: getTagText(sca, "HdrUser1"),
+      HdrUser2: getTagText(sca, "HdrUser2"),
+      HdrUser3: getTagText(sca, "HdrUser3"),
+      HdrUser4: getTagText(sca, "HdrUser4"),
+      HdrUser5: getTagText(sca, "HdrUser5"),
+      FrtClass: getTagText(sca, "FrtClass")||"",
+      ProNumber: getTagText(sca, "ProNumber")||"",
+      Container: getTagText(sca, "Container"),
+      Warehouse: getTagText(sca, "Warehouse"),
+      ShipmentMethodCode: getTagText(sca, "ShipmentMethodCode"),
+      FreightBillType: getTagText(sca, "FreightBillType"),
+      FreightCost: getTagText(sca, "FreightCost"),
+      GrsWeight: getTagText(sca, "GrsWeight"),
+      NetWeight: getTagText(sca, "NetWeight"),
+    };
+
+    // Nested blocks (safe even for master docs)
+    var shipToBlock = sliceFirstBlock(sca, "ShipTo");
+    if (shipToBlock) {
+      obj.ShipTo = compactObject({
+        ShipToCode: getTagText(shipToBlock, "ShipToCode"),
+        ShipToName: getTagText(shipToBlock, "ShipToName"),
+        ShipToName2: getTagText(shipToBlock, "ShipToName2"),
+        ShipToAddr1: getTagText(shipToBlock, "ShipToAddr1"),
+        ShipToAddr2: getTagText(shipToBlock, "ShipToAddr2"),
+        ShipToCity: getTagText(shipToBlock, "ShipToCity"),
+        ShipToState: getTagText(shipToBlock, "ShipToState"),
+        ShipToZip: getTagText(shipToBlock, "ShipToZip"),
+        ShipToCountry: getTagText(shipToBlock, "ShipToCountry"),
+      });
+    }
+
+    var shipFromBlock = sliceFirstBlock(sca, "ShipFrom");
+    if (shipFromBlock) {
+      obj.ShipFrom = compactObject({
+        ShipFromCode: getTagText(shipFromBlock, "ShipFromCode"),
+        ShipFromName: getTagText(shipFromBlock, "ShipFromName"),
+      });
+    }
+
+    var carrierBlock = sliceFirstBlock(sca, "Carrier");
+    if (carrierBlock) {
+      obj.Carrier = compactObject({
+        CarrierCode: getTagText(carrierBlock, "CarrierCode"),
+        CarrierName: getTagText(carrierBlock, "CarrierName"),
+      });
+    }
+
+    var fbtBlock = sliceFirstBlock(sca, "FreightBillTo");
+    if (fbtBlock) {
+      obj.FreightBillTo = compactObject({
+        FrtBillToCode: getTagText(fbtBlock, "FrtBillToCode"),
+        FrtBillToName: getTagText(fbtBlock, "FrtBillToName"),
+        FrtBillToAddr1: getTagText(fbtBlock, "FrtBillToAddr1"),
+        FrtBillToAddr2: getTagText(fbtBlock, "FrtBillToAddr2"),
+        FrtBillToCity: getTagText(fbtBlock, "FrtBillToCity"),
+        FrtBillToState: getTagText(fbtBlock, "FrtBillToState"),
+        FrtBillToZip: getTagText(fbtBlock, "FrtBillToZip"),
+        FrtBillToCountry: getTagText(fbtBlock, "FrtBillToCountry"),
+      });
+    }
+
+    // ShipLine parsing (master docs usually have none; keep it cheap)
+    // --- ShipLines (XSD wants ShipLines -> ShipLine[])
+var lineBlocks = sliceAllBlocks(sca, "ShipLine");
+var shipLineArr = [];
+for (var l = 0; l < lineBlocks.length; l++) {
+  var ln = lineBlocks[l];
+  shipLineArr.push(compactObject({
+    ItemNumber: getTagText(ln, "ItemNumber"),
+    QtyOrdered: getTagText(ln, "QtyOrdered"),
+    QtyShipped: getTagText(ln, "QtyShipped"),
+    UOM: getTagText(ln, "UOM"),
+    ItemDesc1: getTagText(ln, "ItemDesc1"),
+    ItemDesc2: getTagText(ln, "ItemDesc2"),
+    Lot: getTagText(ln, "Lot"),
+    LineReference: getTagText(ln, "LineReference"),
+    SubPart1Number: getTagText(ln, "SubPart1Number"),
+    SubPart2Number: getTagText(ln, "SubPart2Number"),
+    AltItemNo: getTagText(ln, "AltItemNo"),
+    SerialNumber: getTagText(ln, "SerialNumber"),
+    NMFCCode: getTagText(ln, "NMFCCode"),
+    FreightClass: getTagText(ln, "FreightClass"),
+    LineUser1: getTagText(ln, "LineUser1"),
+    LineUser2: getTagText(ln, "LineUser2"),
+    LineUser3: getTagText(ln, "LineUser3"),
+    LineUser4: getTagText(ln, "LineUser4"),
+    LineUser5: getTagText(ln, "LineUser5"),
+    LGrsWeight: getTagText(ln, "LGrsWeight"),
+    LNetWeight: getTagText(ln, "LNetWeight"),
+    GroupID: getTagText(ln, "GroupID"),
+    CodeDate: getTagText(ln, "CodeDate"),
+    TagID: getTagText(ln, "TagID")
+  }));
+}
+obj.ShipLines =  shipLineArr ;
+
+// --- Packages (XSD wants Packages -> Package[] -> Contents -> Content[])
+var packagesBlock = sliceFirstBlock(sca, "Packages");
+var packageArr = [];
+
+if (packagesBlock) {
+  var packageBlocks = sliceAllBlocks(packagesBlock, "Package");
+
+  for (var p = 0; p < packageBlocks.length; p++) {
+    var pk = packageBlocks[p];
+
+    var pkgObj = compactObject({
+      PackageID: getTagText(pk, "PackageID"),
+      ParentPackageID: getTagText(pk, "ParentPackageID"),
+      PackageType: getTagText(pk, "PackageType"),
+      SSCC: getTagText(pk, "SSCC")
+    });
+
+    var contentsBlock = sliceFirstBlock(pk, "Contents");
+    var contentArr = [];
+
+    if (contentsBlock) {
+      var contentBlocks = sliceAllBlocks(contentsBlock, "Content");
+      for (var c = 0; c < contentBlocks.length; c++) {
+        var ct = contentBlocks[c];
+        contentArr.push(compactObject({
+          LineID: getTagText(ct, "LineID"),
+          Qty: getTagText(ct, "Qty"),
+          UOM: getTagText(ct, "UOM")
+        }));
+      }
+    }
+
+    pkgObj.Contents = { Content: contentArr };
+    packageArr.push(pkgObj);
+  }
+
+  obj.Packages = { Package: packageArr };
+}
+    out.push(compactObject(obj));
+  }
+
+  return out;
+}
+
+/* ===========================
+   FAST XML string helpers
+   =========================== */
+
+/**
+ * Returns inner text of <tag>...</tag> from within xmlFragment.
+ * Handles namespaces like <ns:Tag> by matching optional "prefix:".
+ */
+function getTagText(xmlFragment, tagName) {
+  if (!xmlFragment) return "";
+  // match <Tag ...>text</Tag> OR <ns:Tag ...>text</ns:Tag>
+  var open = new RegExp("<(?:[A-Za-z0-9_\\-]+:)?"+escapeRegExp(tagName)+"(?:\\s[^>]*)?>", "i");
+  var close = new RegExp("</(?:[A-Za-z0-9_\\-]+:)?"+escapeRegExp(tagName)+"\\s*>", "i");
+
+  var m1 = open.exec(xmlFragment);
+  if (!m1) return "";
+  var start = m1.index + m1[0].length;
+
+  // find closing after start
+  close.lastIndex = 0;
+  var m2 = close.exec(xmlFragment.slice(start));
+  if (!m2) return "";
+
+  var raw = xmlFragment.slice(start, start + m2.index);
+  return decodeEntities(raw).trim();
+}
+
+/** Slice the first <tag>...</tag> block inside fragment */
+function sliceFirstBlock(fragment, tagName) {
+  var blocks = sliceAllBlocks(fragment, tagName, 1);
+  return blocks.length ? blocks[0] : "";
+}
+
+/**
+ * Slice all <tag>...</tag> blocks in a string.
+ * @param {string} xml
+ * @param {string} tagName
+ * @param {number} limit optional
+ */
+function sliceAllBlocks(xml, tagName, limit) {
+  var out = [];
+  if (!xml) return out;
+
+  var openRe = new RegExp("<(?:[A-Za-z0-9_\\-]+:)?"+escapeRegExp(tagName)+"(?:\\s[^>]*)?>", "ig");
+  var closeRe = new RegExp("</(?:[A-Za-z0-9_\\-]+:)?"+escapeRegExp(tagName)+"\\s*>", "ig");
+
+  var openMatch;
+  while ((openMatch = openRe.exec(xml)) !== null) {
+    var startIdx = openMatch.index;
+    var contentStart = startIdx;
+
+    // find matching close tag after open
+    closeRe.lastIndex = openRe.lastIndex;
+    var closeMatch = closeRe.exec(xml);
+    if (!closeMatch) break;
+
+    var endIdx = closeMatch.index + closeMatch[0].length;
+    out.push(xml.slice(contentStart, endIdx));
+
+    if (limit && out.length >= limit) break;
+
+    // continue after this block
+    openRe.lastIndex = endIdx;
+  }
+  return out;
+}
+
+function decodeEntities(s) {
+  return String(s || "")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&")
+    .replace(/&quot;/g, '"')
+    .replace(/&apos;/g, "'");
+}
+
+function escapeRegExp(s) {
+  return String(s).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+/**
+ * compactObject(obj)
+ * ------------------
+ * A lighter-weight alternative to your recursive removeEmpty().
+ * Removes: null/undefined, "" (trim), and empty objects/arrays at the top level.
+ * (We keep it shallow for speed; nested structures are already built compactly.)
+ */
+function compactObject(obj) {
+  if (!obj || typeof obj !== "object") return obj;
+
+  if (Array.isArray(obj)) {
+    var a = [];
+    for (var i = 0; i < obj.length; i++) {
+      var v = obj[i];
+      if (v === null || v === undefined) continue;
+      if (typeof v === "string" && v.trim() === "") continue;
+      if (typeof v === "object" && v && !Array.isArray(v) && Object.keys(v).length === 0) continue;
+      if (Array.isArray(v) && v.length === 0) continue;
+      a.push(v);
+    }
+    return a;
+  }
+
+  var out = {};
+  for (var k in obj) {
+    if (!Object.prototype.hasOwnProperty.call(obj, k)) continue;
+    var v2 = obj[k];
+    if (v2 === null || v2 === undefined) continue;
+    if (typeof v2 === "string" && v2.trim() === "") continue;
+    if (Array.isArray(v2) && v2.length === 0) continue;
+    if (typeof v2 === "object" && v2 && !Array.isArray(v2) && Object.keys(v2).length === 0) continue;
+    out[k] = v2;
+  }
+  return out;
+}
+
+/* ===========================
+   Existing location + warehouse
+   =========================== */
+
+// Creates a location object
+function createLocation(record, type, order) {
+  var isPickup = type === "pickup";
+  var shipTo = record && record.ShipTo ? record.ShipTo : {};
+
+  // If delivery and no ship-to address, return null quickly
+  if (!isPickup && !safeStr(shipTo.ShipToAddr1)) return null;
+
+  var location = {
+    address: isPickup ? "" : shipTo.ShipToAddr1,
+    name: isPickup ? "" : shipTo.ShipToName,
+    code: isPickup ? "" : shipTo.ShipToCode,
+    zip: isPickup ? "" : shipTo.ShipToZip,
+    order: order,
+    type: type,
+    EventDate: "",
+    apptDate: "",
+    loadNos: {
+      bill_of_lading_no: record.ShipmentID,
+      order_no: record.OrderRefNumber,
+      purchase_order_no: record.HdrUser1,
+    },
+  };
+
+  var formatted = getTodayFormattedDate();
+  var shipDate = isString(record.ShipDate) ? safeDateToMdY(record.ShipDate) : formatted;
+  var expDate = isString(record.ExpDeliveryDate)
+    ? safeDateToMdY(record.ExpDeliveryDate)
+    : getDatePlusTwoDaysFrom(shipDate);
+
+  location.EventDate = isPickup ? mdYtoYmd(shipDate) : mdYtoYmd(expDate);
+  location.apptDate = location.EventDate;
+
+  // Pickup warehouse enrichment
+  if (isPickup) {
+    var mode = record.mode === true;
+    var whCode = "";
+    if (typeof record.Warehouse === "string" && record.Warehouse) whCode = record.Warehouse;
+    else if (record.ShipFrom && typeof record.ShipFrom.ShipFromCode === "string") whCode = record.ShipFrom.ShipFromCode;
+    else whCode = "001";
+
+    var wh = getWarehouseInfo(whCode, mode);
+    for (var k in wh) {
+      if (Object.prototype.hasOwnProperty.call(wh, k)) location[k] = wh[k];
+    }
+  }
+
+  return location;
+}
+
+/**
+ * Warehouse map is pre-built once for speed.
+ * Your original getWarehouseInfo rebuilt the map every call (expensive in loops).
+ */
+var WAREHOUSE_MAP_TEST = {
+  "001": { code: "DIS1412824", name: "Distribution Technology Inc", address: "1411 Continental Blvd", zip: "28273", location_id: "123f8acc-eb0d-4414-8835-2a0d7bb84f1e", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "002": { code: "DIS1412824", name: "Distribution Technology Inc", address: "1411 Continental Blvd", zip: "28273", location_id: "123f8acc-eb0d-4414-8835-2a0d7bb84f1e", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "003": { code: "DIS1412824", name: "Distribution Technology Inc", address: "1411 Continental Blvd", zip: "28273", location_id: "123f8acc-eb0d-4414-8835-2a0d7bb84f1e", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "004": { code: "DIS1702827", name: "Distribution Technology Inc", address: "1701 Continental Blvd", zip: "28273", location_id: "9e5c357b-37ed-4298-8ec1-268029a40275", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "006": { code: "DIS1142827", name: "Distribution Technology Inc", address: "11425 Granite Street", zip: "28273", location_id: "2b77a137-5470-4c9c-97ac-f4253e6d5578", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "008": { code: "DIS1462827", name: "Distribution Technology Inc", address: "14620 Carowinds Boulevard", zip: "28273", location_id: "51eb2508-03f4-4ae2-a9b0-0d41364b3088", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+};
+
+var WAREHOUSE_MAP_PROD = {
+  "001": { code: "DIS1412824", name: "Distribution Technology Inc", address: "1411 Continental Blvd", zip: "28273", location_id: "61bf8345-667e-4a68-a030-64d9259c09e0", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "002": { code: "DIS1412824", name: "Distribution Technology Inc", address: "1411 Continental Blvd", zip: "28273", location_id: "61bf8345-667e-4a68-a030-64d9259c09e0", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "003": { code: "DIS1412824", name: "Distribution Technology Inc", address: "1411 Continental Blvd", zip: "28273", location_id: "61bf8345-667e-4a68-a030-64d9259c09e0", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "004": { code: "DIS1702827", name: "Distribution Technology Inc", address: "1701 Continental Blvd", zip: "28273", location_id: "9e5c357b-37ed-4298-8ec1-268029a40275", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "006": { code: "DIS1142827", name: "Distribution Technology Inc", address: "11425 Granite Street", zip: "28273", location_id: "1ffd5de7-f1fa-4fe9-b755-dc859170dbb0", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+  "008": { code: "DIS1462827", name: "Distribution Technology Inc", address: "14620 Carowinds Boulevard", zip: "28273", location_id: "682c3a22-2697-43ba-b72d-dc8d4195ae68", city_id: "12e15842-0a69-453c-857c-3220b3e3cf38" },
+};
+
+function getWarehouseInfo(code, mode) {
+  var map = mode === true ? WAREHOUSE_MAP_TEST : WAREHOUSE_MAP_PROD;
+  return map[code] || map["001"] || {};
+}
+
+/* ===========================
+   Small utilities (kept/safer)
+   =========================== */
+
+function isString(value) {
+  return typeof value === "string" || value instanceof String;
+}
+
+function roundTo2(n) {
+  return Math.round((parseFloat(n) || 0) * 100) / 100;
+}
+
+/**
+ * Convert "MM/DD/YYYY" -> "YYYYMMDD"
+ * Returns "" if input is falsy or not parseable.
+ */
+function safeDateToYmd(d) {
+  if (!d || typeof d !== "string") return "";
+  d = d.trim();
+  if (/^\d{8}$/.test(d)) return d; // already YYYYMMDD
+  if (!/^\d{2}\/\d{2}\/\d{4}$/.test(d)) return "";
+  var m = d.slice(0, 2);
+  var day = d.slice(3, 5);
+  var y = d.slice(6, 10);
+  return y + m + day;
+}
+
+/** Ensure "MM/DD/YYYY" output */
+function safeDateToMdY(d) {
+  if (!d || typeof d !== "string") return "";
+  d = d.trim();
+  if (/^\d{2}\/\d{2}\/\d{4}$/.test(d)) return d;
+  if (/^\d{8}$/.test(d)) {
+    return d.slice(4, 6) + "/" + d.slice(6, 8) + "/" + d.slice(0, 4);
+  }
+  return "";
+}
+
+function mdYtoYmd(mdY) {
+  // "MM/DD/YYYY" -> "YYYYMMDD"
+  if (!/^\d{2}\/\d{2}\/\d{4}$/.test(mdY)) return "";
+  return mdY.slice(6, 10) + mdY.slice(0, 2) + mdY.slice(3, 5);
+}
+
+function getTodayFormattedDate() {
+  var d = new Date();
+  return (
+    String(d.getMonth() + 1).padStart(2, "0") +
+    "/" +
+    String(d.getDate()).padStart(2, "0") +
+    "/" +
+    d.getFullYear()
+  );
+}
+
+function getDatePlusTwoDaysFrom(inputDate) {
+  var year, month, day;
+
+  if (/^\d{2}\/\d{2}\/\d{4}$/.test(inputDate)) {
+    // Format: MM/DD/YYYY
+    var parts = inputDate.split("/");
+    month = Number(parts[0]);
+    day = Number(parts[1]);
+    year = Number(parts[2]);
+  } else if (/^\d{8}$/.test(inputDate)) {
+    // Format: YYYYMMDD
+    year = Number(inputDate.substr(0, 4));
+    month = Number(inputDate.substr(4, 2));
+    day = Number(inputDate.substr(6, 2));
+  } else {
+    throw new Error("Unsupported date format: " + inputDate);
+  }
+
+  var date = new Date(year, month - 1, day);
+  date.setDate(date.getDate() + 2);
+
+  return (
+    date.getFullYear() +
+    String(date.getMonth() + 1).padStart(2, "0") +
+    String(date.getDate()).padStart(2, "0")
+  );
+}
+/*
+* preSavePageFunction stub:
+*
+* The name of the function can be changed to anything you like.
+*
+* The function will be passed one 'options' argument that has the following fields:
+*   'data' - an array of records representing one page of data. A record can be an object {} or array [] depending on the data source.
+*   'files' - file exports only. files[i] contains source file metadata for data[i]. i.e. files[i].fileMeta.fileName.
+*   'errors' - an array of errors where each error has the structure {code: '', message: '', source: '', retryDataKey: ''}.
+*   'retryData' - a dictionary object containing the retry data for all errors: {retryDataKey: { data: <record>, stage: '', traceKey: ''}}.
+*   '_exportId' - the _exportId currently running.
+*   '_connectionId' - the _connectionId currently running.
+*   '_flowId' - the _flowId currently running.
+*   '_integrationId' - the _integrationId currently running.
+*   '_apiId' - the _apiId currently running.
+*   '_parentIntegrationId' - the parent of the _integrationId currently running.
+*   'pageIndex' - 0 based. context is the batch export currently running.
+*   'lastExportDateTime' - delta exports only.
+*   'currentExportDateTime' - delta exports only.
+*   'settings' - all custom settings in scope for the export currently running.
+*   'sandbox' - boolean value indicating whether the script is invoked for sandbox.
+*   'testMode' - boolean flag indicating test mode and previews.
+*   'job' - the job currently running.
+*
+* The function needs to return an object that has the following fields:
+*   'data' - your modified data.
+*   'errors' - your modified errors.
+*   'abort' - instruct the batch export currently running to stop generating new pages of data.
+*   'newErrorsAndRetryData' - return brand new errors linked to retry data: [{retryData: <record>, errors: [<error>]}].
+* Throwing an exception will signal a fatal error and stop the flow.
+*
+ * preSavePage(options)
+ * --------------------
+ * Convert Excalibur XML in each record.pXMLDoc into JSON shipment objects.
+ *
+ * PERFORMANCE NOTES:
+ * - Avoid console.log(JSON.stringify(obj)) in loops. It is a common Celigo timeout source.
+ * - Avoid full XML DOM/tree parsing for large XML payloads. We use targeted tag extraction instead.
+ * - Keep output objects lean: do not carry the original XML blob forward.
+ *
+ * @param {Object} options
+ * @param {Array<Object>} options.data - Array of source records (each expected to have pXMLDoc).
+ * @param {boolean} options.testMode - Controls warehouse IDs (your existing behavior).
+ * @returns {Object} Celigo preSavePage response object.
+ */
